@@ -31,3 +31,4 @@ Nimma zaum, soits lebn, Buaschn soits lebn
 Und jetzt stests mit de Glasln au wei so jung kumma
 Nimma zaum, soits lebn, Buaschn soits lebn
 
+Peter hat text zu punkt 11 eingefügt
