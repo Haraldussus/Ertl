@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+#Textfile ignorieren
+*.txt
+
 # Log file
 *.log
 
