@@ -1,4 +1,4 @@
-
+Harald hat hier text eingefügt um die elfte Aufgabe zu erledigen.
 
 >Dieser Hobbit war ein sehr wohlhabender Hobbit und sein Name war Beutlin. Die Beutlins hatten
 > seit undenklichen Zeiten in der Nachbarschaft des
